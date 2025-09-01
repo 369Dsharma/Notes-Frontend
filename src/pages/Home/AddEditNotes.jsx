@@ -8,7 +8,7 @@ const AddEditNotes = ({noteData,getAllNotes, type, onClose , showToastMessage}) 
     const [content, setContent] = useState(noteData?.content || "");
     const [tags, setTags] = useState(noteData?.tags || []);
 
-    const [error, setError] = useState(null);
+    const [error,  setError] = useState(null);
 
     // Add Note
     const addNewNote = async () => {
