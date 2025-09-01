@@ -7,7 +7,7 @@ const Welcome = ()=> {
       <section className="relative isolate">
         <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-8 sm:gap-12 px-4 py-8 sm:py-10 md:py-24 md:grid-cols-2" style={{marginTop: "-2.5rem"}}>
           <div className="text-center md:text-left">
-            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight mt-3">
+            <h1 className="text-2xl sm:text-3xlmt-7 md:text-4xl font-bold tracking-tight mt-3">
               Organize ideas. Capture notes. Stay focused.
             </h1>
             <p className="mt-3 sm:mt-4 text-base sm:text-lg text-slate-600">
