@@ -19,7 +19,7 @@ const SignUp = () => {
 
     if(!name)
     {
-      setError("Please entr your name");
+      setError("Please enter your name");
       return;
     }
 
